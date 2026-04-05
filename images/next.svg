@@ -1,0 +1,15 @@
+<svg width="60" height="60" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <radialGradient id="grad2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1ed760"/>
+      <stop offset="100%" stop-color="#1DB954"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="50" cy="50" r="45" fill="url(#grad2)"/>
+
+  <rect x="28" y="28" width="8" height="44" rx="4" fill="black"/>
+  <polygon points="45,30 75,50 45,70" fill="black"/>
+
+</svg>
